@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Navber Start */
+.containerNav{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: #333;
+}
+
+.nav-con{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     height: 60px;
+
+}
+
+.menu{
+    display: flex;
+}
+
+.menu li{
+    list-style: none;
+    margin-left: 1rem;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.logo img{
+    width: 52px;
+    height: 40px;
+}
+
+/* Navber End */
+
+.hero-con {
+    display: flex;
+    background-color: rgb(254, 228, 189);
+}
+.hero-img  img {
+    width: 80%;
+    padding: 2rem
+}
+
+.hero-info {
+    width: 100%;
+    padding: 2rem;
+}
+
+.hero-info h3 {
+    font-size: 2rem;
+    font-style: normal;
+}
+
+.hero-info p {
+    margin: 2rem;
+    font-style: normal;
+    font-size: 1.2rem;
+
+}
+
+.hero {
+    background-color: blanchedalmond;
+}
+
+.blog-item1 img {
+    width: 30%;
+    padding: 2rem
+}
+.blog-item2 img {
+    width: 30%;
+    padding: 2rem
+}
+.blog-item3 img {
+    width: 30%;
+    padding: 2rem
+}
+.blog-item4 img {
+    width: 30%;
+    padding: 2rem
+}
+.blog-item5 img {
+    width: 30%;
+    padding: 2rem
+}
+.blog-item6 img {
+    width: 30%;
+    padding: 2rem
+}
+.blog-item7 img {
+    width: 30%;
+    padding: 2rem
+}
+
+.blog-con1 {
+    width: 100%;
+    padding: 2rem;
+    background-color: rgb(242, 182, 93);
+}
+
+.blog-con2 {
+    width: 100%;
+    padding: 2rem;
+    background-color: rgb(254, 228, 189);
+}
+.blog-con3 {
+    width: 100%;
+    padding: 2rem;;
+    background-color: rgb(242, 182, 93);
+}
+.blog-con4 {
+    width: 100%;
+    padding: 2rem;
+    background-color: rgb(254, 228, 189);
+}
+.blog-con5 {
+    width: 100%;
+    padding: 2rem;
+    background-color: rgb(242, 182, 93);
+}
+.blog-con6 {
+    width: 100%;
+    padding: 2rem;
+    background-color: rgb(254, 228, 189);
+}
+.blog-con7 {
+    width: 100%;
+    padding: 2rem;
+    background-color: rgb(242, 182, 93);
+}
+.blog {
+    background-color: blanchedalmond;
+}
